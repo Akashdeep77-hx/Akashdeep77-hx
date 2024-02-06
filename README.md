@@ -22,7 +22,7 @@ I'm a passionate software developer with a love for turning ideas into reality t
 ### 🤝 Let's Connect!
 
 - 💼 LinkedIn: [https://www.linkedin.com/feed/]
-- 🐦 Twitter: [Your Twitter Handle]
+- 🐦 Twitter: [https://twitter.com/AkashdeepC83651]
 - 🌐 Website: [Your Personal Website or Portfolio]
 
 ### 📈 GitHub Stats
