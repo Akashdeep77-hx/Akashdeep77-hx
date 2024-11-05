@@ -1,4 +1,4 @@
-### 👋 Hello World! I'm [AKASHDEEP CHIK BARAIK]
+### 👋 Hello World! I'm AKASHDEEP CHIK BARAIK
 
 I'm a passionate software developer with a love for turning ideas into reality through code. My journey in the world of programming began years ago, and since then, I've been on an exciting learning adventure.
 
