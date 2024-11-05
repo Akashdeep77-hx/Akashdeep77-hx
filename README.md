@@ -9,13 +9,13 @@ I'm a passionate software developer with a love for turning ideas into reality t
 - 🤖 Interested in machine learning and artificial intelligence
 
 ### 🛠️ Tech Stack
-•	Programming Languages: Python, JavaScript
-•	Data Processing & Libraries: Pandas, NumPy, multi-threading, and multi-processing
-•	Cloud & Deployment: AWS (S3, Lambda, Glue), Docker, Kubernetes, CI/CD pipelines
-•	Database Management: SQL (MySQL, PostgreSQL), NoSQL (MongoDB), experience with large-scale databases
-•	Version Control: Git, GitHub
-•	Software Engineering: System design, algorithm development, debugging, optimization
-•	Problem-Solving & Collaboration: Strong problem-solving skills, teamwork, communication, adaptability
+-•	Programming Languages: Python, JavaScript
+-•	Data Processing & Libraries: Pandas, NumPy, multi-threading, and multi-processing
+-•	Cloud & Deployment: AWS (S3, Lambda, Glue), Docker, Kubernetes, CI/CD pipelines
+-•	Database Management: SQL (MySQL, PostgreSQL), NoSQL (MongoDB), experience with large-scale databases
+-•	Version Control: Git, GitHub
+-•	Software Engineering: System design, algorithm development, debugging, optimization
+-•	Problem-Solving & Collaboration: Strong problem-solving skills, teamwork, communication, adaptability
 
 ### 🌱 Currently Learning
 
