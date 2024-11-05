@@ -1,6 +1,6 @@
 ### 👋 Hello World! I'm [AKASHDEEP CHIK BARAIK]
 
-I'm a passionate software developer with a love for turning ideas into reality through code. My journey in the world of programming began [JUST A YEAR AGO], and since then, I've been on an exciting learning adventure.
+I'm a passionate software developer with a love for turning ideas into reality through code. My journey in the world of programming began years ago, and since then, I've been on an exciting learning adventure.
 
 ### 💻 What I Do
 
@@ -9,11 +9,13 @@ I'm a passionate software developer with a love for turning ideas into reality t
 - 🤖 Interested in machine learning and artificial intelligence
 
 ### 🛠️ Tech Stack
-
-- **Languages:** [PYTHON,HTML,CSS,JAVASCRIPIT]
-- **Frameworks:** [PHP]
-- **Databases:** [SQL]
-- **Tools:** [ANACONDA(JUPYTER NOTEBOOK),VS STUDIO,NETBEANS,PYCHARM]
+•	Programming Languages: Python, JavaScript
+•	Data Processing & Libraries: Pandas, NumPy, multi-threading, and multi-processing
+•	Cloud & Deployment: AWS (S3, Lambda, Glue), Docker, Kubernetes, CI/CD pipelines
+•	Database Management: SQL (MySQL, PostgreSQL), NoSQL (MongoDB), experience with large-scale databases
+•	Version Control: Git, GitHub
+•	Software Engineering: System design, algorithm development, debugging, optimization
+•	Problem-Solving & Collaboration: Strong problem-solving skills, teamwork, communication, adaptability
 
 ### 🌱 Currently Learning
 
@@ -21,12 +23,12 @@ I'm a passionate software developer with a love for turning ideas into reality t
 
 ### 🤝 Let's Connect!
 
-- 💼 LinkedIn: [https://www.linkedin.com/feed/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/akashdeepcb/]
 - 🐦 Twitter: [https://twitter.com/AkashdeepC83651]
-- 🌐 Website: [Your Personal Website or Portfolio]
+- 🌐 Website: [On development]
 
 ### 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
+[! https://github.com/Akashdeep77-hx)
 
 Feel free to explore my repositories, and let's collaborate on building something awesome together! 🚀
